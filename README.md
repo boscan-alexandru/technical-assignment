@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deployed on a self-hosted server
 
-Or visit [https://technical-assignment.server.cartomanti.live/](https://technical-assignment.server.cartomanti.live/) in your browser for the live version.
+Or visit [https://technical-assignment.server.influendoo.com/](https://technical-assignment.server.influendoo.com/) in your browser for the live version.
 
 ## Learn More
 
